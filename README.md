@@ -4,7 +4,7 @@ I am a junior full stack web developer with a background in building engineering
 
 After a year and a half of self-study, working on exciting side projects like generative art, I graduated from Makers Academy, a 16-week software development bootcamp in which I rapidly increased my skills as a developer using principles such as TDD, DRY, SRP, and XP values.
 
-I find fulfillment in solving problems using logical thinking and I am looking forward to take on a career where I can serve and enjoy my analytical mindset and love for design to contribute to a meaningful project and expand my knowledge in web development.
+I find fulfillment in solving problems using logical thinking and I am looking forward to take on a career where I can enjoy my analytical mindset and love for clean design to contribute to a meaningful project and expand my knowledge in web development.
 
 ## Skills
 
