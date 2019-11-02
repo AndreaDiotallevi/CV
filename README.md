@@ -6,6 +6,12 @@ After a year and a half of self-study, working on exciting side projects like ge
 
 I find fulfillment in solving problems using logical thinking and I am looking forward to take on a career where I can enjoy my analytical mindset and love for clean design to contribute to a meaningful project and expand my knowledge in web development.
 
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies](#hobbies)
+
+## Projects
+
+To be completed
+
 ## Skills
 
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
@@ -27,7 +33,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy, London (UK) (October 2019 to January 2020)
+#### Makers Academy, London, UK (October 2019 to January 2020)
 
 16-week intensive full stack web development bootcamp focusing on:
 
@@ -37,16 +43,18 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Marche Polytechnic University, Ancona (Italy) (September 2008 to December 2014)
+#### Marche Polytechnic University, Ancona, Italy (September 2008 to December 2014)
 
 Master's degree in building engineering and architecture (110/110 with honors)
 
 ## Experience
 
 **Proctor and Matthews Architects** (March 2015 to September 2019)    
-*Architect*  
-- I have built python scripts to automate some boring stuff like renaming multiple files with correct revision letter.
+*Project Architect*  
+- Technical design and development.
+- Project management and client meetings.
+- Python scripts automating boring stuff like renaming multiple files with correct revision numbers.
 
 ## Hobbies
-
-Any cool stuff that makes you a super part of a software development team
+*Music*  
+I hold a piano diploma from the Conservatory of Ancona and I have been playing and composing music since I am five years old.
