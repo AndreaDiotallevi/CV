@@ -29,10 +29,10 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Makers Academy, London (October 2019 to January 2020)
 
-A 16-week intensive full stack development bootcamp focusing on:
+16-week intensive full stack development bootcamp focusing on:
 
 - Promoting TDD, DRY, SRP, OOP, MVC, clean code, teamwork, pair programming, respect, mindfulness, and acceptance
-- Multiple group projects simulating real-world, team-work environments with stand-ups, retros, sprint-planning, task delegation, and most of all thoughtful communication
+- Multiple group projects simulating real-world, team-work environments with stand-ups, retros, sprint-planning, task-delegation, and most of all thoughtful communication
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
@@ -40,10 +40,6 @@ A 16-week intensive full stack development bootcamp focusing on:
 #### Polytechnic University of Ancona, Italy (September 2008 to December 2014)
 
 Master's degree in building engineering and architecture (110/110 with honors)
-
-#### Conservatory of Ancona, Italy (March 2002 - June 2009)
-
-Piano diploma (10/10)
 
 ## Experience
 
