@@ -8,9 +8,11 @@ I find fulfillment in solving problems using logical thinking and I am looking f
 
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies](#hobbies)
 
+
 ## Projects
 
 To be completed
+
 
 ## Skills
 
@@ -31,6 +33,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
+
 ## Education
 
 #### Makers Academy, London, UK (October 2019 to January 2020)
@@ -47,6 +50,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 Master's degree in building engineering and architecture (110/110 with honors)
 
+
 ## Experience
 
 **Proctor and Matthews Architects** (March 2015 to September 2019)    
@@ -54,6 +58,7 @@ Master's degree in building engineering and architecture (110/110 with honors)
 - Technical design and development.
 - Project management and client meetings.
 - Python scripts automating boring stuff like renaming multiple files with correct revision numbers.
+
 
 ## Hobbies
 *Music*  
