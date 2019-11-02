@@ -1,16 +1,8 @@
 ## Andrea Diotallevi
 
-I am a full-stack software engineer, fascinated by how widely code is embedded in almost everything we do, making it ever more efficient and accessible.
+I am a junior full stack web developer with a background in building engineering and architecture, fascinated by how widely code is embedded in almost everything we do, making it ever more efficient and accessible.
 
-
-Over the last two years, I have gained hands-on experience building full stack web applications within an agile development environment, as well as working on side projects
-
-
-I have been working on personal projects like generative art, gaining hands-on experience with different type of programming languages.
-
-gaining hands-on experience in building full stack web apps (see...), object-oriented programming (see...), testing best practices (see...) and generative art (see...).
-
-In addition, my background in building engineering and architecture has helped me develop teamwork, design and development skills that can be successfully applied in a software engineering company.
+After a year and a half of self-study working on side projects and different languages, I graduated from the 16-week software development bootcamp at Makers Academy, which rapidly increased my skills as a developer using principles such as TDD, DRY, SRP, and XP values.
 
 ## Skills
 
