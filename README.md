@@ -57,6 +57,7 @@ Master's degree in building engineering and architecture (110/110 with honors)
 
 ## Interests
 
-- **Music**: I have been playing the piano since the age of five and music has always been integral to my life. The habit of practicing and composing pieces of music has tought me how to concentrate for long hours and build a balanced and grounded mindset. In June 2009 I received the piano diploma from the Conservatory of Ancona, Italy.
-- **Chess**: I enjoy playing chess and following tournaments on-line, as I am very fascinated about the math and algorithms hidden within the rules of the game.
-- **Sports**: I am inspired by sport stories and people, from which I have learned so much in terms of respect, self-esteem and personal development. My favourite sports to watch are rugby and tennis, while to practice swimming and cycling.
+- **Music**: I have been playing the piano since the age of five and music has always been integral to my life. The habit of practicing and composing pieces of music has tought me how to concentrate for long hours and build a balanced and grounded mindset. In June 2009 I received the piano diploma from the Conservatory of Ancona, Italy
+- **Generative Art**: I discovered the field of [generative art](https://github.com/AndreaDiotallevi/generative-art) while learning to code on my own and became captivated by this, experimenting with p5.js and processing, and sharing my work on [openprocessing.org](https://www.openprocessing.org/user/157729)
+- **Chess**: I enjoy playing chess and following tournaments on-line, as I am fascinated by the math and algorithms hidden within the rules of the game
+- **Sports**: I am inspired by sport stories and people, from which I have learned so much in terms of respect, self-esteem and personal development. My favourite sports to watch are rugby and tennis, while to practice are swimming and cycling
