@@ -6,7 +6,7 @@ After a year and a half of self-study, working on exciting side projects like [g
 
 I find fulfillment in solving problems using logical thinking and I am looking forward to take on a career where I can use my analytical mindset and sensibility for clean design to contribute to a meaningful project and expand my knowledge in web development.
 
-[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies](#hobbies)
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
 
 ## Projects
 
@@ -38,7 +38,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 16-week intensive full stack web development bootcamp focusing on:
 
 - Promoting TDD, DRY, SRP, OOP, MVC, clean code, teamwork, pair programming, respect, mindfulness, and acceptance
-- Multiple group projects simulating real-world, team-work environments with stand-ups, retros, sprint-planning, task-delegation, and most of all thoughtful communication
+- Multiple group projects simulating real-world team environments with stand-ups, retros, sprint-planning, task-delegation, and thoughtful communication
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
@@ -51,10 +51,12 @@ Master's degree in building engineering and architecture (110/110 with honors)
 
 **Proctor and Matthews Architects** (March 2015 to September 2019)    
 *Project Architect*  
-- Technical design and development.
-- Project management and client meetings.
-- Python scripts automating boring stuff like renaming multiple files with correct revision numbers.
+- Technical design and development
+- Project management and client meetings
+- Python scripts automating boring stuff like renaming multiple files with correct revision numbers
 
-## Hobbies
-*Music*  
-I hold a piano diploma from the Conservatory of Ancona and I have been playing and composing music since I am five years old.
+## Interests
+
+- **Music**: I have been playing the piano since the age of five and music has always been integral to my life. The habit of practicing and composing pieces of music has tought me how to concentrate for long hours and build a balanced and grounded mindset. In June 2009 I received the piano diploma from the Conservatory of Ancona, Italy.
+- **Chess**: I enjoy playing chess and following tournaments on-line, as I am very fascinated about the math and algorithms hidden within the rules of the game.
+- **Sports**: I am inspired by sport stories and people, from which I have learned so much in terms of respect, self-esteem and personal development. My favourite sports to watch are rugby and tennis, while to practice swimming and cycling.
