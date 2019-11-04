@@ -2,7 +2,7 @@
 
 I am a junior full stack web developer with a background in building engineering and architecture, fascinated by how widely code is embedded in almost everything we do, making it ever more efficient and accessible.
 
-After a year and a half of self-study, working on exciting side projects like [generative art](https://github.com/AndreaDiotallevi/generative-art), I graduated from Makers Academy, a 16-week software development bootcamp, in which I rapidly increased my skills as a developer using principles such as TDD, DRY, OOP, and XP values and getting hands-on experience in building full stack web apps like [...].
+After a year and a half of self-study, working on personal side projects like [generative art](https://github.com/AndreaDiotallevi/generative-art) and [...], I graduated from Makers Academy, a 16-week software development bootcamp, in which I rapidly increased my skills as a developer using principles such as TDD, DRY, OOP, and XP values and getting hands-on experience in building full stack web apps like [...].
 
 I find fulfillment in solving problems using logical thinking and I am looking forward to take on a career where I can use my analytical mindset and sensibility for clean design to contribute to a meaningful project and expand my knowledge in web development.
 
