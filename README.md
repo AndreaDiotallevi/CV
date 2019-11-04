@@ -11,14 +11,14 @@ I find fulfillment in solving problems using logical thinking and I am looking f
 ## Projects
 Name | Description | Time-frame | Technologies | Testing  
 ---- | ----------- | ---------- | ------------ | -------
+[...] | [...] | [...] | [...] | [...]
 [Generative Art](https://github.com/AndreaDiotallevi/generative-art) | A collection of creative interactive programs and generative artworks made with p5.js (Javascript library) and processing (Java library). | Two years | HTML, CSS, Javascript, p5.js, processing | [...] |
-[..] | [...] | [...] | [...] | [...]
 
 ## Skills
 
 #### Responsibility and accountability
 
-I take ownership for the work I do personally and as a team, accepting accountability for the results. At Proctor and Matthews Architects, I was responsible for the construction detailed design and site inspections of [John Dower House](https://www.proctorandmatthews.com/project/john-dower-house-cheltenham), and I contributed to the final completion of the building, while maintaining a professional relationship between the company, the contractor and the client.
+I take ownership for the work I do personally and as a team, accepting accountability for the results. At Proctor and Matthews Architects, I was responsible for the construction detailed design and site inspections of [John Dower House](https://www.proctorandmatthews.com/project/john-dower-house-cheltenham), contributing to the final completion of the building while managing a professional relationship with the contractor.
 
 #### Focus and analytical mindset
 
@@ -26,7 +26,7 @@ As a pianist and music composer I have learned how to stay focused for long hour
 
 #### Indipendent learning mentality and initiative to practice new technologies
 
-I consider myself a dynamic person, always eager to learning new skills. 
+I consider myself a dynamic person, always eager to learning new skills.
 
 #### This Skill
 
