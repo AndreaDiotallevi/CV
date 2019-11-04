@@ -11,7 +11,7 @@ I find fulfillment in solving problems using logical thinking and I am looking f
 ## Projects
 | *Name* | *Description* | *Time-frame* | *Technologies* | *Testing* |  
 | :----: | :-----------: | :----------: | :------------: | :-------: |
-[Generative Art](https://github.com/AndreaDiotallevi/generative-art) | [...] | Two years | HTML, CSS, Javascript, p5.js, processing | [...] |
+[Generative Art](https://github.com/AndreaDiotallevi/generative-art) | [A collection of creative interactive programs and generative artworks made with p5.js (Javascript library) and processing (Java open-source library).] | Two years | HTML, CSS, Javascript, p5.js, processing | [...] |
 
 To be completed
 
