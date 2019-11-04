@@ -9,6 +9,9 @@ I find fulfillment in solving problems using logical thinking and I am looking f
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
 
 ## Projects
+| *Name* | *Description* | *Time-frame* | *Technologies* | *Testing* |  
+| :----: | :-----------: | :----------: | :------------: | :-------: |
+[Generative Art](https://github.com/AndreaDiotallevi/generative-art) | [...] | Two years | HTML, CSS, Javascript, p5.js, processing | [...] |
 
 To be completed
 
