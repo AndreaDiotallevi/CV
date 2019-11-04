@@ -16,21 +16,21 @@ Name | Description | Time-frame | Technologies | Testing
 
 ## Skills
 
-#### Responsibility and accountability
+**Responsibility and accountability**
 
 I take ownership for the work I do on my own and as part of a team, accepting accountability for the results. At Proctor and Matthews Architects, I was responsible for the construction detailed design and site inspections of [John Dower House](https://www.proctorandmatthews.com/project/john-dower-house-cheltenham), contributing to the final completion of the building while managing a professional relationship with the contractor.
 
-#### Sustained focus and precision in reviewing technical information
+**Sustained focus and precision in reviewing technical information**
 
 I am able to stay focused for long hours and have the necessary patience to review technical information. At my previous job, I checked sub-contractors drawings and specifications of a multi-residential project at construction stage, and my overall accuracy assisted the contractor with the delivery of a quality product.
 
-#### Indipendent learning and interdisciplinary approach
+**Indipendent learning and interdisciplinary approach**
 
 I consider myself a dynamic person, always eager to learn new skills and develop my personal knowledge. Over the last two years, I have picked up several programming languages for different purposes, like python to automate boring stuff at my previous job and javascript to create interactive generative artworks in the browser.
 
 ## Education
 
-#### Makers Academy, London, UK (October 2019 to January 2020)
+**Makers Academy, London, UK** (October 2019 to January 2020)
 
 16-week intensive full stack web development bootcamp focusing on:
 
@@ -40,7 +40,7 @@ I consider myself a dynamic person, always eager to learn new skills and develop
 - Ruby, Rails, JavaScript.
 - RSpec, Jasmine.
 
-#### Marche Polytechnic University, Ancona, Italy (September 2008 to December 2014)
+**Marche Polytechnic University, Ancona, Italy** (September 2008 to December 2014)
 
 Master's degree in building engineering and architecture (110/110 with honors).
 
