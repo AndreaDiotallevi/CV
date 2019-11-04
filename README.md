@@ -22,26 +22,11 @@ I take ownership for the work I do on my own and as part of a team, accepting ac
 
 #### Sustained focus and precision in reviewing technical information
 
-I am able to stay focused for long hours and have the necessary patience to review technical information. At my previous job, I checked sub-contractors drawings and specifications of a multi-residential project at construction stage and my overall accuracy assisted the contractor to minimize potential problems on site.
+I am able to stay focused for long hours and have the necessary patience to review technical information. At my previous job, I checked sub-contractors drawings and specifications of a multi-residential project at construction stage, and my overall accuracy assisted the contractor with the delivery of a quality product.
 
-#### Indipendent learning mentality and initiative to practice new technologies
+#### Indipendent learning and interdisciplinary approach
 
-I consider myself a dynamic person, always eager to learning new skills.
-
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+I consider myself a dynamic person, always eager to learn new skills and develop my personal knowledge. Over the last two years, I have picked up several programming languages for different purposes, like python to automate boring stuff at my previous job and javascript to create interactive generative artworks in the browser.
 
 ## Education
 
