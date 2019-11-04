@@ -18,11 +18,11 @@ Name | Description | Time-frame | Technologies | Testing
 
 #### Responsibility and accountability
 
-I take ownership for the work I do personally and as a team, accepting accountability for the results. At Proctor and Matthews Architects, I was responsible for the construction detailed design and site inspections of [John Dower House](https://www.proctorandmatthews.com/project/john-dower-house-cheltenham), contributing to the final completion of the building while managing a professional relationship with the contractor.
+I take ownership for the work I do personally and as part of a team, accepting accountability for the results. At Proctor and Matthews Architects, I was responsible for the construction detailed design and site inspections of [John Dower House](https://www.proctorandmatthews.com/project/john-dower-house-cheltenham), contributing to the final completion of the building while managing a professional relationship with the contractor.
 
-#### Focus and analytical mindset
+#### Focus and balance under pressure
 
-As a pianist and music composer I have learned how to stay focused for long hours and break down a complex tasks into smaller more tangible ones.
+I have a naturally calm mindset that allows me to handle stressful situations with objectivity and rationality. As a pianist I have learned how to stay focused for long hours and practiced how to perform in front of a big audience, without losing control of my thought process.
 
 #### Indipendent learning mentality and initiative to practice new technologies
 
