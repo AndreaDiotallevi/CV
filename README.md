@@ -1,6 +1,6 @@
 ## Andrea Diotallevi
 
-I am a junior full stack web developer with a background in building engineering and architecture, fascinated by how widely code is embedded in almost everything we do, making it ever more efficient and accessible.
+I am a software developer with a background in building engineering and architecture, fascinated by how widely code is embedded in almost everything we do, making it ever more efficient and accessible.
 
 After a year and a half of self-study and working on personal projects like [generative art](https://github.com/AndreaDiotallevi/generative-art), I graduated from Makers Academy, a 16-week software development bootcamp, in which I rapidly increased my skills as a developer using principles such as TDD, DRY, OOP, and XP values and getting hands-on experience in building full stack web applications.
 
