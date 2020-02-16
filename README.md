@@ -11,7 +11,6 @@ I find fulfillment in solving problems using logical thinking and I am looking f
 ## Projects
 Name | Description | Time-frame | Technologies | Testing    
 ---- | ----------- | ---------- | ------------ | -------
-[...] | [...] | [...] | [...] | [...]
 [Moovli](https://github.com/AndreaDiotallevi/moovli) | A front-end web application where you can click on any country and get the best movies from that country. | Two weeks | React, Python | Jest, Enzyme
 [Generative Art](https://github.com/AndreaDiotallevi/generative-art) | A collection of creative interactive programs and generative artworks made with p5.js (a Javascript client-side library for creating graphic and interactive experiences). | Two years | HTML, CSS, Javascript, p5.js | [...] |
 
