@@ -12,6 +12,7 @@ I find fulfillment in solving problems using logical thinking and I am looking f
 Name | Description | Time-frame | Technologies | Testing    
 ---- | ----------- | ---------- | ------------ | -------
 [Moovli](https://github.com/AndreaDiotallevi/moovli) | A front-end web application where you can click on any country and get the best movies from that country. | Two weeks | React, Python | Jest, Enzyme
+[MakersBnB](https://github.com/ajbacon/makers-bnb) | A clone of the AirBnB website | A full-stack application where you can authenticate, list & book spaces and request and refuse requests for a certain date. | Two weeks | Ruby, Sinatra | RSpec, Capybara
 [Generative Art](https://github.com/AndreaDiotallevi/generative-art) | A collection of creative interactive programs and generative artworks made with p5.js (a Javascript client-side library for creating graphic and interactive experiences). | Two years | HTML, CSS, Javascript, p5.js | [...] |
 
 ## Skills
