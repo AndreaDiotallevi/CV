@@ -9,7 +9,7 @@
   <img src="./images/medium-logo.png" alt="medium" hspace="50" height="42" width="42"></a>
 
   <a href="https://www.codewars.com/users/AndreaDiotallevi">
-  <img src="./images/codewars-coloured-logo.png" alt="codewars" hspace="50" height="42" width="42"></a>
+  <img src="./images/codewars-logo-cropped.png" alt="codewars" hspace="50" height="42" width="42"></a>
   
 </p>
 
