@@ -1,23 +1,25 @@
-<h1 align="center">Andrea Diotallevi - Software Developer</h1>
+<h1 align="center">Andrea Diotallevi - Software Engineer</h1>
 
 <p align="center">
   
-<a href="https://www.linkedin.com/in/andrea-diotallevi-69b5a4b0/">
-<img src="./images/linkedin-logo.png" alt="linkedin" hspace="50" height="42" width="42"></a>
-  
-<a href="https://medium.com/@andreadiotallevi">
-<img src="./images/medium-logo.png" alt="medium" hspace="50" height="42" width="42"></a>
+  <a href="https://www.linkedin.com/in/andrea-diotallevi-69b5a4b0/">
+  <img src="./images/linkedin-logo.png" alt="linkedin" hspace="50" height="42" width="42"></a>
 
-<a href="https://www.codewars.com/users/AndreaDiotallevi">
-<img src="./images/codewars-coloured-logo.png" alt="codewars" hspace="50" height="42" width="42"></a></p>
+  <a href="https://medium.com/@andreadiotallevi">
+  <img src="./images/medium-logo.png" alt="medium" hspace="50" height="42" width="42"></a>
+
+  <a href="https://www.codewars.com/users/AndreaDiotallevi">
+  <img src="./images/codewars-coloured-logo.png" alt="codewars" hspace="50" height="42" width="42"></a>
+  
+</p>
 
 ## Overview
 
-I am a software developer with a background in building engineering and architecture, fascinated by how widely code is embedded in almost everything we do, making it ever more efficient and accessible.
+I am a **full-stack software engineer**, with a background in building engineering and architecture, having worked for the last four and a half years as an architect at [Proctor & Matthews](https://www.proctorandmatthews.com/), where I contributed to the construction of a [70-unit residential complex](https://www.proctorandmatthews.com/project/john-dower-house-cheltenham). Working with cloud and design technologies within the architectural industry is where I came to learn I had much stronger affinity towards the software side of my work, where I was looking into ways to automate time-consuming tasks with code.
 
-After a year and a half of self-study and working on personal projects like [generative art](https://github.com/AndreaDiotallevi/generative-art), I graduated from Makers Academy, a 16-week software development bootcamp, in which I rapidly increased my skills as a developer using principles such as TDD, DRY, OOP, and XP values and getting hands-on experience in building full stack web applications.
+Ever since gaining exposure to programming, through practising with different data structures and algorithms with Python, I became hooked into coding. I spoke to developers about the industry and started **self-learning** for about a year and a half before taking the leap and investing into my future with [Makers Academy](https://makers.tech/), a 16-week software development bootcamp, in which I rapidly increased my skills as a developer using principles such as TDD, DRY, OOP, and XP values and getting hands-on experience in building full-stack web applications.
 
-I find fulfillment in solving problems using logical thinking and I am looking forward to take on a career where I can use my analytical mindset and sensibility for clean design to contribute to a meaningful project and expand my knowledge in web development.
+As a self-learner, I have also been exploring technologies across different disciplines, like creating [generative artworks](https://github.com/AndreaDiotallevi/generative-art) with JavaScript and scraping data from web pages with Python. Having a varied professional background and interests, I hope to leverage the different experiences I have gained to support the development of my colleagues, the company and myself.
 
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
 
