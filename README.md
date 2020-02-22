@@ -1,4 +1,17 @@
-## Andrea Diotallevi
+<h1 align="center">Andrea Diotallevi - Software Developer</h1>
+
+<p align="center">
+  
+<a href="https://www.linkedin.com/in/andrea-diotallevi-69b5a4b0/">
+<img src="./images/linkedin-logo.png" alt="linkedin" hspace="50" height="42" width="42"></a>
+  
+<a href="https://medium.com/@andreadiotallevi">
+<img src="./images/medium-logo.png" alt="medium" hspace="50" height="42" width="42"></a>
+
+<a href="https://www.codewars.com/users/AndreaDiotallevi">
+<img src="./images/codewars-logo.png" alt="codewars" hspace="50" height="42" width="42"></a></p>
+
+## Overview
 
 I am a software developer with a background in building engineering and architecture, fascinated by how widely code is embedded in almost everything we do, making it ever more efficient and accessible.
 
