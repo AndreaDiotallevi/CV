@@ -1,7 +1,6 @@
 <h1 align="center">Andrea Diotallevi - Software Engineer</h1>
 
 <p align="center">
-  
   <a href="https://www.linkedin.com/in/andrea-diotallevi-69b5a4b0/">
   <img src="./images/linkedin-logo.png" alt="linkedin" hspace="50" height="42" width="42"></a>
 
@@ -10,8 +9,13 @@
 
   <a href="https://www.codewars.com/users/AndreaDiotallevi">
   <img src="./images/codewars-logo-cropped.png" alt="codewars" hspace="50" height="42" width="42"></a>
-  
 </p>
+
+<div align="center">
+
+[Overview](#overview) | [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
+
+</div>
 
 ## Overview
 
@@ -20,8 +24,6 @@ I am a **full-stack software engineer**, with a background in building engineeri
 Ever since gaining exposure to programming, through practising with different data structures and algorithms with Python, I became hooked into coding. I spoke to developers about the industry and started **self-learning** for about a year and a half before taking the leap and investing into my future with [Makers Academy](https://makers.tech/), a 16-week software development bootcamp, in which I rapidly increased my skills as a developer using principles such as TDD, DRY, OOP, and XP values and getting hands-on experience in building full-stack web applications.
 
 As a self-learner, I have also been exploring technologies across different disciplines, like creating [generative artworks](https://github.com/AndreaDiotallevi/generative-art) with JavaScript and scraping data from web pages with Python. Having a varied professional background and interests, I hope to leverage the different experiences I have gained to support the development of my colleagues, the company and myself.
-
-[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
 
 ## Projects
 Name | Description | Time-frame | Technologies | Testing    
@@ -63,11 +65,14 @@ Master's degree in building engineering and architecture (110/110 with honors).
 
 ## Experience
 
-**Proctor and Matthews Architects** (March 2015 to September 2019)    
+**Proctor and Matthews Architects, London, UK** (March 2015 to September 2019)   
+
 *Project Architect*  
+
 - Technical design and development.
+- Mark-up and check of technical information from the consultants.
 - Project management and client meetings.
-- Python scripts automating boring stuff like renaming multiple files with correct revision numbers.
+- Python scripts automating time-consuming tasks like renaming multiple files with correct revision numbers.
 
 ## Interests
 
