@@ -19,7 +19,7 @@
 
 ## Overview
 
-I am a **full-stack software engineer**, with a background in building engineering and architecture, having worked for the last four and a half years as an **architect** at [Proctor & Matthews](https://www.proctorandmatthews.com/), where I was responsible for construction detailed design and development of a multi-residential project. Working with cloud and design technologies within the architectural industry is where I came to learn I had much stronger affinity towards the software side of my work, where I was looking into ways to automate time-consuming tasks with code.
+I am a **full-stack software engineer**, with a background in building engineering and architecture, having worked for the last four and a half years as an **architect** at [Proctor & Matthews](https://www.proctorandmatthews.com/), where I was responsible for the construction detailed design and development of a multi-residential project. Working with cloud and design technologies within the architectural industry is where I came to learn I had much stronger affinity towards the software side of my work, where I was looking into ways to automate time-consuming tasks with code.
 
 Ever since gaining exposure to programming, through practising with different [data structures and algorithms](https://www.codewars.com/users/AndreaDiotallevi) with Python, I became hooked into coding. I spoke to developers about the industry and started **self-learning** for about a year and a half before taking the leap and investing into my future with [Makers Academy](https://makers.tech/). During this course, I rapidly increased my skills as a developer using principles such as **TDD**, DRY, OOP, and XP values and got **hands-on experience** in building full-stack web applications, in a range of different technologies, including [Ruby](https://github.com/AndreaDiotallevi/expense-tracker) and [JavaScript](https://github.com/AndreaDiotallevi/moovli).
 
@@ -40,13 +40,17 @@ Name<img width=50/><img width=50/> | Description<img width=350/><img width=350/>
 
 I have trained at Makers Academy following **TDD** methodology, in addition to **Agile** and **XP values**. My adaptability developed through working in different industries, which translated into developing projects in a range of different technologies, including **Ruby**, **JavaScript** and **Python**. I have shown good practice when using TDD with an **external reviewer**, following a red-green-refactor cycle and making my code as clean and readable as possible.
 
+#### Teamwork and collaboration
+
+During my time as an architect, I learnt to collaborate with a range of different professional figures, from the **client** and business side, to the **technical** and consultancy side, in order to **achieve common goals** and results. At makers, I have applied my teamwork abilities to understand different parts of the codebase to better understand the roles and responsibilities of our team and allow better **delegation** of tasks.
+
 #### Proactive mindset and resourcefulness
 
 My enthusiasm for **learning** and developing **creative** solutions makes me extremely **determined** and proactive when facing a new challenge. During my final project at Makers, I developed an alternative idea for getting the best movies for each country with the use of web scraping technologies, which **solved the problem** of not being able to query any movie API by country.
 
 #### Sustained focus and precision in reviewing technical documentation
 
-I am able to stay focused for long hours and have the **patience** to **review** technical documentation. At my previous job, I used to check sub-contractors drawings and specifications of a multi-residential project at construction stage, and my overall **accuracy** assisted the main contractor with the delivery of a **quality** product.
+I am able to stay focused for long hours and have the **patience** to **review** technical documentation. At my previous job, I was responsible for checking sub-contractors drawings and specifications of a multi-residential project at construction stage, and my overall **accuracy** assisted the main contractor with the delivery of a **quality** product.
 
 ## Education
 
@@ -91,4 +95,4 @@ I enjoy playing chess and following tournaments on-line, as I am fascinated by t
 
 #### Sports
 
-I am inspired by sport stories and people, from which I have learned so much in terms of respect, self-esteem and personal development. My favourite sports to watch are rugby and tennis, while to practice are swimming and cycling.
+I am inspired by sport stories and people, from which I have learnt so much in terms of respect, self-esteem and personal development. My favourite sports to watch are rugby and tennis, while to practice are swimming and cycling.
