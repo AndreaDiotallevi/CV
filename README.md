@@ -44,7 +44,7 @@ I have trained at Makers Academy following **TDD** methodology, in addition to *
 
 #### Proactive mindset and resourcefulness
 
-My enthusiasm for **learning** and develop **creative** solutions makes me extremely **determined** and proactive when facing a new challenge. During my final project at Makers, I developed an alternative idea for getting the best movies for each country with the use of web scraping technologies, which **solved the problem** of not being able to query any movie API by country.
+My enthusiasm for **learning** and developing **creative** solutions makes me extremely **determined** and proactive when facing a new challenge. During my final project at Makers, I developed an alternative idea for getting the best movies for each country with the use of web scraping technologies, which **solved the problem** of not being able to query any movie API by country.
 
 #### Sustained focus and precision in reviewing technical documentation
 
