@@ -19,11 +19,11 @@
 
 ## Overview
 
-I am a **full-stack software engineer**, with a background in building engineering and architecture, having worked for the last four and a half years as an architect at [Proctor & Matthews](https://www.proctorandmatthews.com/), where I contributed to the construction of a [70-unit residential complex](https://www.proctorandmatthews.com/project/john-dower-house-cheltenham). Working with cloud and design technologies within the architectural industry is where I came to learn I had much stronger affinity towards the software side of my work, where I was looking into ways to automate time-consuming tasks with code.
+I am a **full-stack software engineer**, with a background in building engineering and architecture, having worked for the last four and a half years as an architect at [Proctor & Matthews](https://www.proctorandmatthews.com/), where I was in charge of the detailed design and development of a 70-unit residential complex at construction stage. Working with cloud and design technologies within the architectural industry is where I came to learn I had much stronger affinity towards the software side of my work, where I was looking into ways to automate time-consuming tasks with code.
 
-Ever since gaining exposure to programming, through practising with different data structures and algorithms with Python, I became hooked into coding. I spoke to developers about the industry and started **self-learning** for about a year and a half before taking the leap and investing into my future with [Makers Academy](https://makers.tech/), a 16-week software development bootcamp, in which I rapidly increased my skills as a developer using principles such as TDD, DRY, OOP, and XP values and getting hands-on experience in building full-stack web applications.
+Ever since gaining exposure to programming, through practising with different data structures and algorithms with Python, I became hooked into coding. I spoke to developers about the industry and started **self-learning** for about a year and a half before taking the leap and investing into my future with [Makers Academy](https://makers.tech/). During the course, I rapidly increased my skills as a developer using principles such as TDD, DRY, OOP, and XP values and got hands-on experience in building full-stack web applications, in a range of different technologies, including Ruby, JavaScript and Python.
 
-As a self-learner, I have also been exploring technologies across different disciplines, like creating [generative artworks](https://github.com/AndreaDiotallevi/generative-art) with JavaScript and scraping data from web pages with Python. Having a varied professional background and interests, I hope to leverage the different experiences I have gained to support the development of my colleagues, the company and myself.
+The way technology is changing the world inspires me to explore, learn and want to create scalable solutions to solve real-world problems. I enjoy working with other bright, motivated engineers who share their passion and I am in constant research of something new to learn, like [web scraping](https://github.com/AndreaDiotallevi/movie-titles-scraper) or writing [blog](https://medium.com/@andreadiotallevi) posts about an technical subject. Having a varied professional background and interests, I hope to leverage the different experiences I have gained to support the development of my colleagues, the company and myself.
 
 ## Projects
 
@@ -35,7 +35,7 @@ Name<img width=50/><img width=50/> | Description<img width=350/><img width=350/>
 [Acebook](https://github.com/EManifold/acebook-zuckermen) | A full-stack web application where you can authenticate, make posts, comments and likes, with the option to customize themes and fonts.<br />(Group project of 2 weeks) | Ruby on Rails, JavaScript, JQuery, ActiveRecord, HTML / CSS, Heroku | RSpec, Capybara, Travis CI |
 [MakersBnB](https://github.com/ajbacon/makers-bnb) | A full-stack web application where you can authenticate, list and book spaces, and request and refuse requests, for a certain date.<br />(Group project of 2 weeks) | Ruby on Sinatra, JavaScript, JQuery, ActiveRecord, HTML / CSS | RSpec, Capybara, Travis CI | 
 [Movie Titles Scraper](https://github.com/AndreaDiotallevi/movie-titles-scraper) | A Python web scraping script to get the best movies from all countries in the world.<br />(Personal project of 2 days) | Python with BeautifulSoup, Requests and Unidecode libraries |  | Learn to scrape web pages and decode non-ascii characters.
-[Generative Art](https://github.com/AndreaDiotallevi/generative-art) | A collection of creative interactive programs and generative artworks made with p5.js (a Javascript client-side library for creating graphic and interactive experiences).<br />(Personal project of 2 years) | HTML / CSS, Javascript, p5.js |
+[Generative Art](https://github.com/AndreaDiotallevi/generative-art) | A collection of creative interactive programs and generative artworks made with p5.js (a JavaScript client-side library for creating graphic and interactive experiences).<br />(Personal project of 2 years) | HTML / CSS, JavaScript, p5.js |
 
 ## Skills
 
@@ -49,7 +49,7 @@ Able to stay focused for long hours and have the necessary patience to review te
 
 #### Indipendent learning and interdisciplinary approach
 
-Eager to learn new skills and develop my personal knowledge. Over the last two years, I have picked up several programming languages for different purposes, like python to automate boring stuff at my previous job and javascript to create interactive generative artworks in the browser.
+Eager to learn new skills and develop my personal knowledge. Over the last two years, I have picked up several programming languages for different purposes, like python to automate boring stuff at my previous job and JavaScript to create interactive generative artworks in the browser.
 
 ## Education
 
