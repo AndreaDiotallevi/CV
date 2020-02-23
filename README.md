@@ -19,7 +19,7 @@
 
 ## Overview
 
-I am a **full-stack software engineer**, with a background in building engineering and architecture, having worked for the last four and a half years as an **architect** at [Proctor & Matthews](https://www.proctorandmatthews.com/), where I was in charge of the detailed design and development of a 70-unit residential complex at construction stage. Working with cloud and design technologies within the architectural industry is where I came to learn I had much stronger affinity towards the software side of my work, where I was looking into ways to automate time-consuming tasks with code.
+I am a **full-stack software engineer**, with a background in building engineering and architecture, having worked for the last four and a half years as an **architect** at [Proctor & Matthews](https://www.proctorandmatthews.com/), where I was responsible for construction detailed design and development of a multi-residential project. Working with cloud and design technologies within the architectural industry is where I came to learn I had much stronger affinity towards the software side of my work, where I was looking into ways to automate time-consuming tasks with code.
 
 Ever since gaining exposure to programming, through practising with different [data structures and algorithms](https://www.codewars.com/users/AndreaDiotallevi) with Python, I became hooked into coding. I spoke to developers about the industry and started **self-learning** for about a year and a half before taking the leap and investing into my future with [Makers Academy](https://makers.tech/). During this course, I rapidly increased my skills as a developer using principles such as TDD, DRY, OOP, and XP values and got **hands-on experience** in building full-stack web applications, in a range of different technologies, including [Ruby](https://github.com/AndreaDiotallevi/expense-tracker) and [JavaScript](https://github.com/AndreaDiotallevi/moovli).
 
@@ -35,21 +35,20 @@ Name<img width=50/><img width=50/> | Description<img width=350/><img width=350/>
 [Acebook](https://github.com/EManifold/acebook-zuckermen) | A full-stack web application where you can authenticate, make posts, comments and likes, with the option to customize themes and fonts.<br />(Group project of 2 weeks) | Ruby on Rails, JavaScript, JQuery, ActiveRecord, HTML / CSS, Heroku | RSpec, Capybara, Travis CI |
 [MakersBnB](https://github.com/ajbacon/makers-bnb) | A full-stack web application where you can authenticate, list and book spaces, and request and refuse requests, for a certain date.<br />(Group project of 2 weeks) | Ruby on Sinatra, JavaScript, JQuery, ActiveRecord, HTML / CSS | RSpec, Capybara, Travis CI | 
 [Movie Titles Scraper](https://github.com/AndreaDiotallevi/movie-titles-scraper) | A Python web scraping script to get the best movies from all countries in the world.<br />(Personal project of 2 days) | Python with BeautifulSoup, Requests and Unidecode libraries |  | Learn to scrape web pages and decode non-ascii characters.
-[Generative Art](https://github.com/AndreaDiotallevi/generative-art) | A collection of creative interactive programs and generative artworks made with p5.js (a JavaScript client-side library for creating graphic and interactive experiences).<br />(Personal project of 2 years) | HTML / CSS, JavaScript, p5.js |
 
 ## Skills
 
-#### Responsibility and accountability
+#### Technical flexibility
 
-I take ownership for the work I do on my own and as part of a team, accepting accountability for the results. At Proctor and Matthews Architects, I was responsible for the construction detailed design of [John Dower House](https://www.proctorandmatthews.com/project/john-dower-house-cheltenham), contributing to the final completion of the building while managing a professional relationship with the contractor.
+I have trained at Makers Academy following **TDD** methodology, in addition to **Agile** and **XP values**. My adaptability developed through working in different industries, which translated into developing projects in a range of different technologies, including **Ruby**, **JavaScript** and **Python**. I have shown good practice when using TDD with an **external reviewer**, following a red-green-refactor cycle and making my code as clean and readable as possible.
 
-#### Sustained focus and precision in reviewing technical information
+#### Proactive mindset and resourcefulness
 
-Able to stay focused for long hours and have the necessary patience to review technical information. At my previous job, I checked sub-contractors drawings and specifications of a multi-residential project at construction stage, and my overall accuracy assisted the contractor with the delivery of a quality product.
+My enthusiasm to **learn** and develop my personal skills makes me extremely **determined** and proactive when facing a new challenge. During my final project at Makers, I developed an alternative idea for getting the best movies for each country with the use of web scraping technologies, which **solved the problem** of not being able to query any movie API by country.
 
-#### Indipendent learning and interdisciplinary approach
+#### Sustained focus and precision in reviewing technical documentation
 
-Eager to learn new skills and develop my personal knowledge. Over the last two years, I have picked up several programming languages for different purposes, like python to automate boring stuff at my previous job and JavaScript to create interactive generative artworks in the browser.
+I am able to stay focused for long hours and have the **patience** to **review** technical documentation. At my previous job, I used to check sub-contractors drawings and specifications of a multi-residential project at construction stage, and my overall **accuracy** assisted the main contractor with the delivery of a **quality** product.
 
 ## Education
 
