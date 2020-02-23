@@ -30,9 +30,9 @@ As a self-learner, I have also been exploring technologies across different disc
 Name | Description | Development Timeframe | Technologies Used | Test Suites/CIs/CDs Employed
 ---- | ----------- | ---------- | ---------------- | --------------------------
 [Moovli](https://github.com/AndreaDiotallevi/moovli) | A front-end web application where you can click on any country and get the best movies from that country. | Group project of two weeks | React, Python, HTML/CSS, Heroku | Jest, Enzyme, CircleCI
+[Expense Tracker](https://github.com/AndreaDiotallevi/expense-tracker) | A full-stack web application where you can manage shared expenses and calculate credit and debit balances for each member of a theme. | Personal project of one week | Ruby, Sinatra, Active Record, HTML/CSS, Heroku | RSpec, Capybara, Travis CI
 [Acebook](https://github.com/EManifold/acebook-zuckermen) | A full-stack web application where you can authenticate, make posts, comments and likes, with the option to customize themes and fonts. | Group project of two weeks | Ruby on Rails, JavaScript, JQuery, Active Record, HTML/CSS, Heroku | RSpec, Capybara, Travis CI
 [MakersBnB](https://github.com/ajbacon/makers-bnb) | A full-stack web application where you can authenticate, list and book spaces, and request and refuse requests, for a certain date. | Group project of two weeks | Ruby, Sinatra, JavaScript, JQuery, Active Record, HTML/CSS | RSpec, Capybara, Travis CI
-[Expense Tracker](https://github.com/AndreaDiotallevi/expense-tracker) | A full-stack web application where you can manage shared expenses and calculate credit and debit balances for each member of a theme. | Personal project of one week | Ruby, Sinatra, Active Record, HTML/CSS, Heroku | RSpec, Capybara, Travis CI
 [Generative Art](https://github.com/AndreaDiotallevi/generative-art) | A collection of creative interactive programs and generative artworks made with p5.js (a Javascript client-side library for creating graphic and interactive experiences). | Personal project of two years | HTML, CSS, Javascript, p5.js | Jest |
 
 ## Skills
