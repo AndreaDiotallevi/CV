@@ -42,7 +42,7 @@ I have trained at Makers Academy following **TDD** methodology, in addition to *
 
 #### Teamwork and collaboration
 
-During my time as an architect, I learnt to collaborate with a range of different professional figures, from the **client** and business side, to the **technical** and consultancy side, in order to **achieve common goals** and results. At makers, I have applied my teamwork abilities to understand different parts of the codebase to better understand the roles and responsibilities of our team and allow better **delegation** of tasks.
+During my time as an architect, I learnt to collaborate with a range of different professionals, from the **client** and business side, to the **technical** and consultancy side, in order to **achieve common goals** and results. At makers, I have applied my teamwork abilities to understand different parts of the codebase to better recognise the roles and responsibilities of our team and allow better **delegation** of tasks.
 
 #### Proactive mindset and resourcefulness
 
