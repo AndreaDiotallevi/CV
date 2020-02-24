@@ -87,7 +87,7 @@ I discovered the field of [generative art](https://github.com/AndreaDiotallevi/g
 
 #### Music
 
-I have been playing the piano since the age of five, and music has always been integral to my life. The habit of practicing and composing pieces of music has tought me how to concentrate for long hours and build a balanced and grounded mindset. In June 2009 I received the piano diploma from the Conservatory of Ancona, Italy.
+I have been playing the piano since the age of five, and music has always been integral to my life. The habit of practicing and composing pieces of music has taught me how to concentrate for long hours and build a balanced and grounded mindset. In June 2009 I received the piano diploma from the Conservatory of Ancona, Italy.
 
 #### Chess
 
