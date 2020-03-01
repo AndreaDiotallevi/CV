@@ -60,8 +60,8 @@ I am able to stay focused for long hours and have the **patience** to **review**
 
 - Promoting TDD, DRY, SRP, OOP, MVC, clean code, teamwork, pair programming, respect, mindfulness, and acceptance.
 - Multiple group projects simulating real-world team environments with stand-ups, retros, sprint-planning, task-delegation, and thoughtful communication.
-- Agile/XP.
-- Ruby, Rails, JavaScript.
+- Agile / XP.
+- Ruby, Sinatra, Rails, JavaScript, JQuery.
 - RSpec, Jasmine.
 
 **Marche Polytechnic University, Ancona, Italy** (September 2008 to December 2014)
