@@ -27,24 +27,12 @@ The way technology is changing the world inspires me to learn and want to create
 
 ## Projects
 
-### Node
-
 | Name<img width=60/><img width=60/> | Description<img width=400/><img width=400/> | Main Technical Challenges<img width=200/> | Technologies<img width=100/><img width=100/> | Test Suites<br/>CIs/CDs<img width=750/>
 --- | --- | --- | --- | ---
 | <p>**MOOVLI**</p><p>[code](https://github.com/AndreaDiotallevi/moovli)</p><p>[live](https://moovli.herokuapp.com/)</p> | A React web application where you can click on any country, get the best movies from that country and filter them by genre<br/>(Group project of 2 weeks) | Handle nested asynchronous requests from multiple APIs within a React application | React, JavaScript, Python, HTML/CSS, Heroku | <p align="center">Jest, Enzyme,<br/>CircleCI<br/><br/>[![CircleCI](https://circleci.com/gh/AndreaDiotallevi/moovli.svg?style=shield)](https://circleci.com/gh/AndreaDiotallevi/moovli)[![Test Coverage](https://api.codeclimate.com/v1/badges/87da0866aaa9dfb4ead6/test_coverage)](https://codeclimate.com/github/AndreaDiotallevi/moovli/test_coverage)</p>
 | <p>**GENERATIVE ART WEBSITE**</p><p>[code](https://github.com/AndreaDiotallevi/andreadiotallevi.com)</p><p>[live](https://www.andreadiotallevi.com/)</p> | A React single page application showcasing my generative artworks and interactive programs, made with p5.js<br/>(Personal project of 2 years) | Design a web and mobile responsive static website and deploy it to a custom domain with Netlify | React, JavaScript, p5.js, HTML/CSS, Netlify | <p align="center">Jest, Enzyme,<br/>CircleCI<br/><br/>[![CircleCI](https://circleci.com/gh/AndreaDiotallevi/website.svg?style=shield)](https://circleci.com/gh/AndreaDiotallevi/andreadiotallevi.com)[![Test Coverage](https://api.codeclimate.com/v1/badges/3da069d854d6c628e1b1/test_coverage)](https://codeclimate.com/github/AndreaDiotallevi/andreadiotallevi.com/test_coverage)</p>
-
-### Ruby
-
-| Name<img width=50/><img width=50/> | Description<img width=200/><img width=200/> | Main Technical Challenges<img width=200/> | Technologies<img width=100/><img width=100/> | Test Suites<br/>CIs/CDs<img width=750/>
---- | --- | --- | --- | ---
 | <p>**FACADE BROCHURE**</p><p>[code](https://github.com/EManifold/acebook-zuckermen)</p><p>[live](https://acebook-zuckerman.herokuapp.com/)</p> | A full-stack web application where you can authenticate, create, edit, delete, like and comment posts, with custom fonts and background colours<br/>(Group project of 2 weeks) | Design a MVC application with an opinionated framework like Rails, which hides some magic box implementations | Ruby, Rails, ActiveRecord, JQuery, HTML/CSS, Heroku | <p align="center">RSpec, Capybara,<br/>Travis CI<br/><br/>[![Build Status](https://travis-ci.org/EManifold/acebook-zuckermen.svg?branch=master)](https://travis-ci.org/EManifold/acebook-zuckermen)[![Test Coverage](https://api.codeclimate.com/v1/badges/7fda849bdfddf3bc3ed5/test_coverage)](https://codeclimate.com/github/EManifold/acebook-zuckermen/test_coverage)</p>
 | <p>**MAKERS BNB**</p><p>[code](https://github.com/ajbacon/makers-bnb)</p><p>[live](https://makers-bnb-sinatra.herokuapp.com/)</p> | A full-stack web application where you can authenticate, list and book spaces, and request and refuse requests, for a certain date<br/>(Group project of 1 week) | Design relational database associations and write SQL-like queries with an Object-Relational Mapping system like Active Record | Ruby, Sinatra, ActiveRecord, JQuery, HTML/CSS, Heroku | <p align="center">RSpec, Capybara,<br/>Travis CI<br/><br/>[![Build Status](https://travis-ci.org/ajbacon/makers-bnb.svg?branch=master)](https://travis-ci.org/ajbacon/makers-bnb)[![Test Coverage](https://api.codeclimate.com/v1/badges/50361cc4aaae192ddca4/test_coverage)](https://codeclimate.com/github/ajbacon/makers-bnb/test_coverage)</p>
-
-### Python
-
-| Name<img width=50/><img width=50/> | Description<img width=200/><img width=200/> | Main Technical Challenges<img width=200/> | Technologies<img width=100/><img width=100/> | Test Suites<br/>CIs/CDs<img width=750/>
---- | --- | --- | --- | ---
 | <p>**BANK**</p><p>[code](https://github.com/AndreaDiotallevi/bank-python)</p> | A console application that allows you to make deposits, withdrawals and print your current bank statement<br/>(Personal project of 1 week) | Model classes following OOP principles, with decoupled unit tests | Python | <p align="center">PyTest,<br/>Travis CI<br/><br/>[![Build Status](https://travis-ci.com/AndreaDiotallevi/bank-python.svg?branch=master)](https://travis-ci.com/AndreaDiotallevi/bank-python)[![Test Coverage](https://api.codeclimate.com/v1/badges/65678327fbf59b19d876/test_coverage)](https://codeclimate.com/github/AndreaDiotallevi/bank-python/test_coverage)
 
 ## Skills
