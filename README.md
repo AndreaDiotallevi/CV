@@ -4,7 +4,7 @@
   <a href="https://www.andreadiotallevi.com/">
   <img src="./images/website-logo.png" alt="website" hspace="50" height="42" width="42"></a>
   
-  <a href="https://www.linkedin.com/in/andrea-diotallevi-69b5a4b0/">
+  <a href="https://www.linkedin.com/in/andrea-diotallevi/">
   <img src="./images/linkedin-logo.png" alt="linkedin" hspace="50" height="42" width="42"></a>
 
   <a href="https://medium.com/@andreadiotallevi">
