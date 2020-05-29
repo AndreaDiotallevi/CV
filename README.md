@@ -87,7 +87,7 @@ _Project Architect_
 
 #### Generative Art
 
-I discovered the field of [generative art](https://github.com/AndreaDiotallevi/generative-art) while learning to code on my own and became captivated by this, experimenting with p5.js and processing, and sharing my work on [openprocessing.org](https://www.openprocessing.org/user/157729).
+I discovered the field of [generative art](https://github.com/AndreaDiotallevi/andreadiotalleviart) while learning to code on my own and became captivated by this, experimenting with p5.js and processing, and sharing my work on [openprocessing.org](https://www.openprocessing.org/user/157729).
 
 #### Music
 
